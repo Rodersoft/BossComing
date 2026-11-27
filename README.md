@@ -12,6 +12,10 @@ One hotkey hides every window you are working in; another brings them all back e
 
 https://gitee.com/rodor/update/releases/download/latest/BossComing.exe
 
+**GitHub 备用 / GitHub mirror：**
+
+https://github.com/Rodersoft/BossComing/releases/latest/download/BossComing.exe
+
 **官网 / Official page：** https://bosscoming.netlify.app/
 
 当前版本 / Current version：**1.8.2**　·　Windows 10 / 11，64 位。
