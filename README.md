@@ -10,7 +10,7 @@ One hotkey hides every window you are working in; another brings them all back e
 
 **直链 / Direct link：**
 
-https://gitee.com/rodor/update/releases/download/latest/BossComing.exe
+https://gitee.com/Rodersoft/BossComing/releases/download/latest/BossComing.exe
 
 **GitHub 备用 / GitHub mirror：**
 
